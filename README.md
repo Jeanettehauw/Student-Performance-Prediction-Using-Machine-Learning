@@ -1,2 +1,2 @@
-# Student-Performance-Prediction-Using-Linear-Regression-and-Random-Forest
-Prediction Model Comparison on Student Performance Dataset
+# Student-Performance-Prediction-Using-Machine Learning
+Machine Learning Model Comparison on Student Performance Dataset
