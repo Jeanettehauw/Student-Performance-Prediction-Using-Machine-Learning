@@ -12,7 +12,7 @@ The objective is to evaluate model performance in predicting final student grade
 ---
 
 ## 📊 Dataset
-The dataset contains student-related attributes including:
+The dataset from Kaggle (https://www.kaggle.com/datasets/larsen0966/student-performance-data-set) contains student-related attributes including:
 
 - Academic scores: `G1`, `G2`
 - Demographics: `age`, parental education
